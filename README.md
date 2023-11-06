@@ -49,6 +49,8 @@ source ~/catkin_ws/devel/setup.bas
 $ source ~/.bashrc
 ~~~
 
+alias란? 별칭을 의미함. 긴 코드를 예악어로서 실행되도록 해준다.
+
 catkin workspace 설치
 
 ~~~shell
