@@ -1,4 +1,7 @@
 # auto_pilot
+https://www.notion.so/zeta7/JessiCar-1449b3fd5c984bab816920cb2b92002d
+
+zeta님의 글을 참고했습니다.
 # 2장 Jetpack & ROS install
 
 이미지 : https://drive.google.com/file/d/1HU5F1cwiw2wzuNBdLL9R3Wvpg5AXLzw5/view?usp=sharing
